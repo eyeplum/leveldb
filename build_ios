@@ -1,0 +1,4 @@
+export IPHONEOS_DEPLOYMENT_TARGET=8.0
+
+make clean
+make PLATFORM=IOS
